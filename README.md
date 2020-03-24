@@ -11,3 +11,8 @@ python manage.py migrate
 ```
 python manage.py createsuperuser
 ```
+### Run Test Server
+
+```
+python manage.py runserver
+```
